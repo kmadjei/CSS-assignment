@@ -6,13 +6,20 @@ This project is a sequel to the [HTML-Assignment](https://kmadjei.github.io/HTML
 
 In this project, the looks of the website was further enhanced to provide better user experience.
 
-[GO LIVE](https://kmadjei.github.io/CSS-assignment/)
+<a href="https://kmadjei.github.io/CSS-assignment/" target="_blank">PREVIEW</a>
 
 ## Features
 
 > The new Striped Umbrella website presents:
     - Balanced and pleasing color theme for visitors.
     - Well-structured content for easier navigation for the users.
+
+## 🥼Testing🧪
+
+> [The W3C CSS Validator] was used in checking if the CSS styling passed the standards.
+>> [Project.css](https://github.com/kmadjei/CSS-assignment/blob/main/css/project.css) is the source code that was tested.
+
+> You can read about the previous test 👉[HERE](https://github.com/kmadjei/HTML-assignment/blob/main/README.md)👈
 
 ## Technologies Used
 
