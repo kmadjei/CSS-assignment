@@ -6,9 +6,7 @@ This project is a sequel to the [HTML-Assignment](https://kmadjei.github.io/HTML
 
 In this project, the looks of the website was further enhanced to provide better user experience.
 
-[PREVIEW](https://kmadjei.github.io/CSS-assignment/){:target="_blank"}
-
-<a href="https://kmadjei.github.io/CSS-assignment/" target="_blank">PREVIEW</a>
+[PREVIEW](https://kmadjei.github.io/CSS-assignment/)
 
 ## Features
 
