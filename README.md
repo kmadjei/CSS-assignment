@@ -6,6 +6,8 @@ This project is a sequel to the [HTML-Assignment](https://kmadjei.github.io/HTML
 
 In this project, the looks of the website was further enhanced to provide better user experience.
 
+[PREVIEW](https://kmadjei.github.io/CSS-assignment/){:target="_blank"}
+
 <a href="https://kmadjei.github.io/CSS-assignment/" target="_blank">PREVIEW</a>
 
 ## Features
@@ -16,7 +18,7 @@ In this project, the looks of the website was further enhanced to provide better
 
 ## 🥼Testing🧪
 
-> [The W3C CSS Validator] was used in checking if the CSS styling passed the standards.
+> [The W3C CSS Validator](https://jigsaw.w3.org/css-validator/) was used in checking if the CSS styling passed the standards.
 >> [Project.css](https://github.com/kmadjei/CSS-assignment/blob/main/css/project.css) is the source code that was tested.
 
 > You can read about the previous test 👉[HERE](https://github.com/kmadjei/HTML-assignment/blob/main/README.md)👈
