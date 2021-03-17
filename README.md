@@ -28,7 +28,7 @@ In this project, the looks of the website was further enhanced to provide better
 
 ## Deployment
 
-You can view the page live through below:
+You can view the page live through link below:
 
 [Click Me 😊](https://kmadjei.github.io/CSS-assignment/)
 
